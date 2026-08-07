@@ -1,0 +1,6 @@
+@BibliotecaMonoLito_HostAddress = http://localhost:5278
+
+GET {{BibliotecaMonoLito_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
